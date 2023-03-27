@@ -1,3 +1,5 @@
+[Open on Replit](https://replit.com/@whs-spring-2023/Python-Skill-Builder)
+
 # Python Skill Builder
 
 1. Create a function that takes a list of numbers and returns the sum of all the even numbers in the list.
